@@ -1,4 +1,0 @@
-how to push code to github
-1:  git add .                    (dot ko all bolte hai)
-2: git commit -m "lecture1 complted"
-3: git push -u origit main
